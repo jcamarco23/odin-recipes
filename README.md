@@ -1,2 +1,2 @@
 # odin-recipes
-this is a test
+Basic recipe webpage for practicing HTML
