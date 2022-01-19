@@ -1,0 +1,21 @@
+
+h1 {
+    color: white;
+    background-color: blue;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500px
+    
+
+}
