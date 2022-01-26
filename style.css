@@ -8,6 +8,22 @@ h1 {
     font-weight: bold;
 }
 
+.lasagnah2 {
+    color:white;
+    background-color:green;
+}
+
+.lasagnai {
+    color: white;
+    background-color: red;
+}
+
+.lasagnast {
+    color: green;
+    background-color: black;
+
+}
+
 h2 {
     color: white;
     background-color: black;
@@ -16,4 +32,5 @@ h2 {
 
 img {
     height: auto;
-    width: 500px
+    width: 500px;
+}
