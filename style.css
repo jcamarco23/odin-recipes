@@ -52,4 +52,6 @@ h2 {
 img {
     height: auto;
     width: 500px;
+    border: 20px solid gray;
+
 }
